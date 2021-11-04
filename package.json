@@ -2,10 +2,10 @@
   "name": "cadent-sass-exercise",
   "version": "1.0.0",
   "description": "Aptitude test the tests a candidates ability to implement CSS via Sass in an effective an scalable manner",
-  "main": "src/index.html",
+  "main": "index.html",
   "scripts": {
-    "start": "parcel src/index.html --open",
-    "build": "parcel build src/index.html"
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git"
@@ -18,7 +18,8 @@
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.43.4",
-    "parcel-bundler": "^1.12.5"
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
 
   }
 }
