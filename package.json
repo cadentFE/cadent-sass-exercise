@@ -2,7 +2,7 @@
   "name": "cadent-sass-exercise",
   "version": "1.0.0",
   "description": "Aptitude test the tests a candidates ability to implement CSS via Sass in an effective an scalable manner",
-  "main": "index.html",
+  "main": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html --open",
     "build": "parcel build src/index.html"
