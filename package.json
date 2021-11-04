@@ -1,0 +1,24 @@
+{
+  "name": "cadent-sass-exercise",
+  "version": "1.0.0",
+  "description": "Aptitude test the tests a candidates ability to implement CSS via Sass in an effective an scalable manner",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/cadent-front-end/test-sass/issues"
+  },
+  "homepage": "https://github.com/cadent-front-end/test-sass#readme",
+  "author": "Michael Simonitsch <mikeks81@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.43.4",
+    "parcel-bundler": "^1.12.5"
+
+  }
+}
